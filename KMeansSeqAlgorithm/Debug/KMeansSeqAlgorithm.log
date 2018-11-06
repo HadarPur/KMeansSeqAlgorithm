@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\afeka\desktop\kmeansseqalgorithm\kmeansseqalgorithm\header.h(9): warning C4091: 'typedef ': ignored on left of 'Cluster' when no variable is declared
+c:\users\afeka\desktop\kmeansseqalgorithm\kmeansseqalgorithm\header.h(25): warning C4091: 'typedef ': ignored on left of 'Point' when no variable is declared
+c:\users\afeka\desktop\kmeansseqalgorithm\kmeansseqalgorithm\source.cpp(209): warning C4101: 'i': unreferenced local variable
+c:\users\afeka\desktop\kmeansseqalgorithm\kmeansseqalgorithm\source.cpp(282): warning C4101: 'i': unreferenced local variable
+  KMeansSeqAlgorithm.vcxproj -> C:\Users\afeka\Desktop\KMeansSeqAlgorithm\Debug\KMeansSeqAlgorithm.exe
+  KMeansSeqAlgorithm.vcxproj -> C:\Users\afeka\Desktop\KMeansSeqAlgorithm\Debug\KMeansSeqAlgorithm.pdb (Partial PDB)

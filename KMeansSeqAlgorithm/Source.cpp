@@ -20,7 +20,7 @@ void main()
 
 
 	//read points from file
-	points = readDataFromFile(&totalNumOfPoints, &K, &limit, &QM, &T, &dt);
+	points = readDataFromFile(&totalNumOfPoints, &K, &T, &dt, &limit, &QM);
 	//Choose first K points as the initial clusters centers, Step 1 in K-Means algorithem
 
 	clusters = initClusters(points, K);
